@@ -2,7 +2,7 @@
  ```python
  class WhoAmI:
  	user = 'Adrien BRIALIX'
-		current_work = 'Alumni at Le Wagon Data Science'
+		current_work = 'Data analyst @ Singulair'
 		hobbies = [
 				'Food',
 				'Video Games',
